@@ -8,13 +8,21 @@ Este proyecto permite analizar una secuencia de nucleótidos de un fichero .fast
 /Challenge1Logix
 
 |-- README.md                      # Es este archivo
+
 |-- requirements.txt               # Lista de dependencias
+
 |-- main.py                        # Archivo principal
+
 |-- read_FASTA.py                  # Función encargada de leer y buscar genes
+
 |-- write_PDF.py                   # Función encargada de generar un PDF con los resultados
+
 |-- sample.fasta                   # Archivo .FASTA de prueba
+
 |-- seq_nuc.fasta                  # Archivo .FASTA de prueba
+
 |-- Análisis_BLAST_sample.pdf      # Archivo .PDF generado
+
 |-- Análisis_BLAST_seq_nuc.pdf     # Archivo .PDF generado 
 
 
